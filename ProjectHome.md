@@ -1,0 +1,1 @@
+Android Launcher application. Optimized with multithreaded  for performance gain. Basic engine of this launcher is directly based on android open source project and AWD launcher.Main purpose of this project is to learn AOSP and optimize the code.
